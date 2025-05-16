@@ -1,6 +1,6 @@
 <?php
 
-define('BASE_URL', 'https://cdn.hey.onylab.com/image/');
+define('BASE_URL', 'https://cdn.pokeboa.com/image/');
 
 $directoryIterator = new RecursiveDirectoryIterator('./', FilesystemIterator::SKIP_DOTS);
 $directories = array();
